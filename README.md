@@ -54,8 +54,4 @@ https://github.com/AndyMoran/falcon9-bayesian-reliability
 
 ## Next Steps
 
-- Add short READMEs inside each project folder  
-- Clean and standardise file naming  
-- Add environment or requirements notes where useful  
-
 This repo will grow as I complete additional courses and refine earlier work.
