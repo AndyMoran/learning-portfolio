@@ -8,15 +8,22 @@ The goal is clarity and structure: a single place to keep the coursework that sh
 
 ## Project Structure
 
-earning-portfolio/
+Learning-portfolio/
+
 │
+
 ├── Google_DA_Cyclistic/
+
 │   └── Case study analysing bike-share usage patterns
+
 │
 ├── Google_DA_Bellabeat/
+
 │   └── Wellness product usage analysis for the Bellabeat capstone
+
 │
 └── IBM_DS_Falcon9/
+
 └── IBM Data Science capstone project (SpaceX Falcon 9 launch analysis)
 
 
