@@ -10,8 +10,6 @@ The goal is clarity and structure: a single place to keep the coursework that sh
 
 Learning-portfolio/
 
-│
-
 ├── Google_DA_Cyclistic/
 
 │   └── Case study analysing bike-share usage patterns
